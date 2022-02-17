@@ -13,6 +13,10 @@ healthcare. The healthcare environment is still „information rich‟ but „kn
 # Dataset used : Cleveland Dataset
 https://www.kaggle.com/ronitf/heart-disease-uci
 
+# PROJECT FLOW
+![image](https://user-images.githubusercontent.com/81866123/154522467-1f68ebba-fc6e-4058-8258-ac7fbf80fe5f.png)
+
+
 # Scope:
 Here the scope of the project is that integration of clinical decision support with computer-based patient records could reduce medical errors, enhance patient safety, decrease unwanted practice variation, and improve patient outcome. This suggestion is promising as data modeling and analysis tools, e.g., data mining, have the potential to generate a knowledge-rich environment which can help to significantly improve the quality of clinical decisions 
 
@@ -27,4 +31,7 @@ Logistic regression	85.12%
 
 # RUN COMMAND:
 streamlit run interface.py
-                         
+
+# OUTPUT:
+![image](https://user-images.githubusercontent.com/81866123/154522547-a5316be8-7800-4e31-809d-2eb02ca8da77.png)
+
